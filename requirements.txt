@@ -1,0 +1,2 @@
+# No external packages needed.
+# This project uses only Python's built-in re module. Any recent version of Python would work.
