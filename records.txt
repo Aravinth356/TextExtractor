@@ -1,0 +1,193 @@
+TextExtractor - Customer Records
+All names, numbers and details below are fictional and made up for practice.
+========================================================================
+
+Record 1
+Name: Arun Prakash
+Age: 22
+Email: arun_pr@example.com
+Phone: +91 6392655486
+Credit Card: 4931-8313-3517-0614
+Aadhaar: 3444 6851 1144
+PAN: HCTPP6955B
+Vehicle: TN 73 DH 9552
+
+Record 2
+Name: Kavya Lakshmi
+Age: 54
+Email: kavyalaksh@example.in
+Phone: +91 6597714383
+Credit Card: 4296-6867-2363-8858
+Aadhaar: 3584 5054 9179
+PAN: XFDPL9528U
+Vehicle: TN 82 GM 1597
+
+Record 3
+Name: Rahul Dev
+Age: 65
+Email: rahuld@example.in
+Phone: +91 9730573909
+Credit Card: 5795-5146-7628-9593
+Aadhaar: 9370 4911 4070
+PAN: FYHPD1341U
+Vehicle: TN 39 TS 5628
+
+Record 4
+Name: Meena Priya
+Age: 24
+Email: meena_pri@example.com
+Phone: +91 9177126709
+Credit Card: 5155-8011-6909-0642
+Aadhaar: 3782 9143 9388
+PAN: LLYPP5737V
+Vehicle: TN 64 VR 1127
+
+Record 5
+Name: Karthik Raja
+Age: 50
+Email: karthik_raja@example.com
+Phone: +91 8694849312
+Credit Card: 5291-6320-5685-0369
+Aadhaar: 9363 2753 1918
+PAN: RBGPR4709E
+Vehicle: TN 95 HN 6406
+
+Record 6
+Name: Divya Bharathi
+Age: 56
+Email: divya.bha58@example.org
+Phone: +91 7879695030
+Credit Card: 5884-9014-4561-6804
+Aadhaar: 7699 6233 3780
+PAN: ECFPB2478H
+Vehicle: TN 85 HA 7946
+
+Record 7
+Name: Vignesh Kumaran
+Age: 23
+Email: vignesh.kum@example.in
+Phone: +91 9574012672
+Credit Card: 5624-9278-5220-2056
+Aadhaar: 2467 9163 6428
+PAN: NNNPK1696R
+Vehicle: TN 82 NB 3123
+
+Record 8
+Name: Anitha Rani
+Age: 49
+Email: anitha.rani@example.org
+Phone: +91 6109929256
+Credit Card: 4580-2478-8791-1662
+Aadhaar: 7628 0417 1152
+PAN: GVNPR2433W
+Vehicle: TN 33 MW 5967
+
+Record 9
+Name: Surya Narayanan
+Age: 38
+Email: surya.na63@mail.example.com
+Phone: +91 9334848879
+Credit Card: 4147-1674-5613-4337
+Aadhaar: 9848 2645 8459
+PAN: AGSPN5926E
+Vehicle: TN 89 UA 8653
+
+Record 10
+Name: Pooja Shree
+Age: 36
+Email: poojas90@example.org
+Phone: +91 7381925851
+Credit Card: 4545-8873-8236-5401
+Aadhaar: 5627 3197 3922
+PAN: NZHPS3275S
+Vehicle: TN 64 MA 0458
+
+Record 11
+Name: Harish Babu
+Age: 43
+Email: harish_bab25@mail.example.com
+Phone: +91 8391524801
+Credit Card: 4225-1673-3716-7701
+Aadhaar: 5345 3348 7907
+PAN: VVAPB7855W
+Vehicle: TN 45 XC 1965
+
+Record 12
+Name: Nandhini Devi
+Age: 28
+Email: nandhinide@mail.example.com
+Phone: +91 8093146944
+Credit Card: 5474-6576-1391-2602
+Aadhaar: 4130 0451 2476
+PAN: UQWPD2394V
+Vehicle: TN 77 SY 5742
+
+Record 13
+Name: Gokul Krishna
+Age: 48
+Email: gokulkrish@example.com
+Phone: +91 6565412094
+Credit Card: 4444-3191-3457-0458
+Aadhaar: 6217 4799 8211
+PAN: HULPK4249T
+Vehicle: TN 54 EB 5797
+
+Record 14
+Name: Swetha Mary
+Age: 54
+Email: swethamary@example.in
+Phone: +91 6937167877
+Credit Card: 5795-3000-9970-0064
+Aadhaar: 4176 2319 7757
+PAN: VZDPM9117B
+Vehicle: TN 42 YT 8696
+
+Record 15
+Name: Mohammed Irfan
+Age: 51
+Email: mohammed_i@example.in
+Phone: +91 7297337444
+Credit Card: 4790-1601-8318-7408
+Aadhaar: 2778 1038 7262
+PAN: LVSPI9930S
+Vehicle: TN 26 ZJ 7412
+
+Record 16
+Name: Fathima Banu
+Age: 28
+Email: fathimabanu@example.org
+Phone: +91 7901942900
+Credit Card: 5140-6826-1992-6428
+Aadhaar: 9323 1188 3942
+PAN: PCGPB4960D
+Vehicle: TN 20 ZX 6000
+
+Record 17
+Name: Joseph Daniel
+Age: 64
+Email: joseph_da@example.com
+Phone: +91 9950189441
+Credit Card: 5166-3665-2645-7070
+Aadhaar: 8347 6902 3207
+PAN: MLCPD5995A
+Vehicle: TN 44 UR 7217
+
+Record 18
+Name: Sangeetha Selvi
+Age: 50
+Email: sangeetha.selv43@example.com
+Phone: +91 6986283560
+Credit Card: 4995-1716-1377-4351
+Aadhaar: 6040 2974 4430
+PAN: EPXPS4237N
+Vehicle: TN 20 UT 9349
+
+Record 19
+Name: Ajay Vikram
+Age: 21
+Email: ajayvik12@example.com
+Phone: +91 7456680688
+Credit Card: 4275-0275-1451-4268
+Aadhaar: 3622 3643 1091
+PAN: JDQPV0189L
+Vehicle: TN 71 PJ 2118
