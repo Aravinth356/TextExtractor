@@ -1,7 +1,7 @@
 import re
 
 def age_extractor(file):
-    with open('records.txt', 'r') as f:
+    with open(file, 'r') as f:
         records = f.read()
         age_pattern = r'Age: (\d{2})'
         ages = re.findall(pattern=age_pattern, string=records)
